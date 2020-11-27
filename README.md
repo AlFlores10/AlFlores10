@@ -21,5 +21,4 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alflores10&layout=compact&hide=html" alt="alflores10" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alflores10&show_icons=true" alt="alflores10" /></p>
