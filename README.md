@@ -1,8 +1,9 @@
+<img src="https://api.daily.dev/devcards/ae7a1ed81fae4cc88602227fb1536754.png?r=jji" width="400" alt="A.Flores's Dev Card"/>
+
 <h1 align="center">Hi 👋, I'm Alberto Flores </h1>
-<h3 align="center">Full Stack Developer Student Bootcamp Geekhubs Madrid</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alflores10" alt="alflores10" /> </p>
 
-- 🔭 I am currently studying as **Full Stack Developer**
+- 🔭 I am a **Full Stack Developer & Project Manager**
 
 - 💬 Ask me about **JavaScript (React, Redux, NodeJS), MongoDB, Sequelize, Php, Laravel, MySQL, CSS3 or HTML5**
 
